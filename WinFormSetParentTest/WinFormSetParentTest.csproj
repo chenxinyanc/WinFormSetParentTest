@@ -6,4 +6,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.DpiAwareness" Version="6.3.29316" />
+  </ItemGroup>
+
 </Project>
